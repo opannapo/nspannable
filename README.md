@@ -97,6 +97,6 @@ textView.setText(s3);
 
 
 ### Output
-Youtube : https://youtu.be/NgM9-3_7ElM
+Youtube : https://www.youtube.com/watch?v=FkN3MpOiKzg
 
 ![Alt text](https://github.com/opannapo/OutputPreviewAssets/blob/master/NProgress/out.gif "Output")
