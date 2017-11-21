@@ -99,4 +99,4 @@ textView.setText(s3);
 ### Output
 Youtube : https://www.youtube.com/watch?v=FkN3MpOiKzg
 
-![Alt text](https://github.com/opannapo/OutputPreviewAssets/blob/master/Nspannable/Android_Spannable_Library.mp4 "Output")
+![Alt text](https://github.com/opannapo/OutputPreviewAssets/blob/master/Nspannable/out.gif "Output")
